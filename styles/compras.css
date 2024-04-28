@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    justify-content: center;
+  }
+  body{
+    background-color: #6528e0;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
